@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Vicky | Portfolio</title>
+    <title> Vicky | Portfolio </title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
